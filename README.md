@@ -1,6 +1,7 @@
 # Event-Announcement-system
 
 A notification system that will sent to the Email Users by given time and date.
+![image alt](https://github.com/jens1220/Space-Website1220/blob/main/screenshot/Website.PNG?raw=true)
 
 ## 🚀 Features
 - Feature 1: Email Subscription with AWS SNS.
@@ -101,3 +102,5 @@ Create a repository in Github then upload your project folder with git commands.
    - Target: AWS Lambda Invoke > AnnouncementCheckerLambda
    - Allow: Schedule Enable
 12. Test the website now go to **S3**> frontend > index.html > **Below the Object URL** Click the link and try the website
+#Email Notification preview
+![image alt](https://github.com/jens1220/Space-Website1220/blob/main/screenshot/Message.PNG?raw=true)
